@@ -85,14 +85,4 @@ print(type(x))                 # <class 'float'>
 - Dynamic typing means less code, but also means you need to be careful about unexpected type changes
 - `type()` is a handy built-in function to check what kind of data you're working with
 
----
 
-## 🔗 Resources
-
-- 📘 [Official Python Docs](https://docs.python.org/3/)
-- 🎥 [Python for Data Analytics — Rishabh Mishra](https://www.youtube.com/@RishabhMishraOfficial)
-- 🧪 [Practice on Google Colab](https://colab.research.google.com)
-
----
-
-*Last updated: Feb 2026 · Next: [Variables, Data Types & Operators →](./01_variables_datatypes_operators.py)*
