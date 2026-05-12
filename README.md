@@ -79,7 +79,7 @@ Land a Data Analyst role by mastering the full modern stack 🚀
 
 | # | Topic | Code | Status |
 |---|-------|------|--------|
-| 01 | Variables, Data Types, Operators & Type Casting | [📄 code](./Python/01_variables_datatypes_operators.py) | ✅ |
+| 01 | Variables, Data Types, Operators & Type Casting | [📄 code](Python/1. Variables,_Data_Types,_Operators_&_Type_Casting_—_Practice_Questions.ipynb) | ✅ |
 | 02 | Conditional Statements — if, elif, else | [📄 code](./Python/02_conditionals.py) | ✅ |
 | 03 | Loops — for, while, break, continue, nested | [📄 code](./Python/03_loops.py) | ✅ |
 | 04 | Lists, Tuples, Sets and Dictionaries in depth | [📄 code](./Python/04_data_structures.py) | ✅ |
